@@ -15,18 +15,7 @@ soup = BeautifulSoup(response.text, "html.parser")
 countries_to_check = ["Afghanistan","Algeria"]
 code_list = {}
 
-# for country in countries_to_check:
-#     table = soup.select(f'div.countryselection > b > a')
-#     for row in table:
-#         if row.get_text() == country.capitalize():
-#             location_code = row.get('href').split("?loc=",2)[1].split("&")[0]
-#             code_list[country] = {"location_code":location_code}
-       
 
-# print(code_list)
-
-# with open('data.json', 'w') as fp:
-#     json.dump(code_list, fp)
             
 country_div = soup.find("div", {"class": "countryselection"})
 for b_tag in country_div.find_all('b'):
