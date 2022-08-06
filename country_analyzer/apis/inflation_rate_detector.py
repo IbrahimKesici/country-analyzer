@@ -1,5 +1,6 @@
 
 
+from ast import Break
 from traceback import print_tb
 import requests
 from bs4 import BeautifulSoup
@@ -27,17 +28,15 @@ class InflationRateResearcher:
 
         for tr_tag in soup_element.find_all("tr"):
             a_tag = tr_tag.select("tr > td > a")
-            
-            if a_tag:
-                try:
-                    rate_tag = tr_tag.select("tr > td > span.te-value-negative")
-                except Exception as ex:
-                    rate_tag = tr_tag.select("tr > td [data-heatmap-value]")
 
-                finally:           
-                    if a_tag[0].get_text().strip().lower() == country.lower():
-                        found_country_name = a_tag[0].get_text().strip()
-                        return rate_tag[0].get_text(), found_country_name
+            if a_tag:
+                rate_tag = tr_tag.select("tr > td > span.te-value-negative")
+                if not rate_tag:
+                    rate_tag = tr_tag.find_all("td", {"data-heatmap-value" : True})
+                if a_tag[0].get_text().strip().lower() == country.lower():
+                    found_country_name = a_tag[0].get_text().strip()
+                    return rate_tag[0].get_text(), found_country_name
+          
 
 
 inflation = InflationRateResearcher("Benin")
