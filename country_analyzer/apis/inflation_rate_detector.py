@@ -41,3 +41,4 @@ class InflationRateResearcher:
 
 inflation = InflationRateResearcher("Benin")
 inflation_rate = inflation.inflation_rate()
+print(inflation_rate)
