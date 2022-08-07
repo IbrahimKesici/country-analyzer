@@ -29,7 +29,7 @@ class SalaryExplorerAPI:
         return salaries
 
     def _get_response_content(self, text:str, target_id_tag:str="contentDiv") -> object:
-        soup = BeautifulSoup(text)
+        soup = BeautifulSoup(text, "html.parser")
         content = soup.find(id=target_id_tag)
         return content
 

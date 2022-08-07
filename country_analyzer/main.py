@@ -35,9 +35,9 @@ def main() -> None:
                                 inflation_rate,
                                 cost_of_living_indexes.cost_of_living_index,
                                 cost_of_living_indexes.purchasing_power_index] 
-
     
-    df.to_excel('country_analysis.xlsx', index=False)
+    output_file_name = 'country_analysis.xlsx' 
+    df.to_excel(output_file_name, index=False)
 
 if __name__ == "__main__": 
     main()
