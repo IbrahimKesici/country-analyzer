@@ -1,1 +1,668 @@
-{"Afghanistan": {"location_code": "1"}, "Aland Islands": {"location_code": "2"}, "Albania": {"location_code": "3"}, "Algeria": {"location_code": "4"}, "American Samoa": {"location_code": "5"}, "Andorra": {"location_code": "6"}, "Angola": {"location_code": "7"}, "Antigua and Barbuda": {"location_code": "9"}, "Argentina": {"location_code": "10"}, "Armenia": {"location_code": "11"}, "Aruba": {"location_code": "12"}, "Australia": {"location_code": "13"}, "Austria": {"location_code": "14"}, "Azerbaijan": {"location_code": "15"}, "Bahamas": {"location_code": "16"}, "Bahrain": {"location_code": "17"}, "Bangladesh": {"location_code": "18"}, "Barbados": {"location_code": "19"}, "Belarus": {"location_code": "20"}, "Belgium": {"location_code": "21"}, "Belize": {"location_code": "22"}, "Benin": {"location_code": "23"}, "Bermuda": {"location_code": "24"}, "Bhutan": {"location_code": "25"}, "Bolivia": {"location_code": "26"}, "Bosnia and Herzegovina": {"location_code": "27"}, "Botswana": {"location_code": "28"}, "Brazil": {"location_code": "30"}, "British Indian Ocean Territory": {"location_code": "31"}, "Brunei": {"location_code": "32"}, "Bulgaria": {"location_code": "33"}, "Burkina Faso": {"location_code": "34"}, "Burundi": {"location_code": "35"}, "Cambodia": {"location_code": "36"}, "Cameroon": {"location_code": "37"}, "Canada": {"location_code": "38"}, "Cape Verde": {"location_code": "39"}, "Cayman Islands": {"location_code": "40"}, "Central African Republic": {"location_code": "41"}, "Chad": {"location_code": "42"}, "Chile": {"location_code": "43"}, "China": {"location_code": "44"}, "Colombia": {"location_code": "47"}, "Comoros": {"location_code": "48"}, "Congo": {"location_code": "49"}, "Congo Democratic Republic": {"location_code": "50"}, "Cook Islands": {"location_code": "51"}, "Costa Rica": {"location_code": "52"}, "Cote Divoire": {"location_code": "53"}, "Croatia": {"location_code": "54"}, "Cuba": {"location_code": "55"}, "Cyprus": {"location_code": "56"}, "Czech Republic": {"location_code": "57"}, "Denmark": {"location_code": "58"}, "Djibouti": {"location_code": "59"}, "Dominica": {"location_code": "60"}, "Dominican Republic": {"location_code": "61"}, "East Timor": {"location_code": "62"}, "Ecuador": {"location_code": "63"}, "Egypt": {"location_code": "64"}, "El Salvador": {"location_code": "65"}, "Equatorial Guinea": {"location_code": "66"}, "Eritrea": {"location_code": "67"}, "Estonia": {"location_code": "68"}, "Ethiopia": {"location_code": "69"}, "Faroe Islands": {"location_code": "71"}, "Fiji": {"location_code": "72"}, "Finland": {"location_code": "73"}, "France": {"location_code": "74"}, "French Guiana": {"location_code": "75"}, "French Polynesia": {"location_code": "76"}, "Gabon": {"location_code": "78"}, "Gambia": {"location_code": "79"}, "Georgia": {"location_code": "80"}, "Germany": {"location_code": "81"}, "Ghana": {"location_code": "82"}, "Gibraltar": {"location_code": "83"}, "Greece": {"location_code": "84"}, "Greenland": {"location_code": "85"}, "Grenada": {"location_code": "86"}, "Guadeloupe": {"location_code": "87"}, "Guam": {"location_code": "88"}, "Guatemala": {"location_code": "89"}, "Guernsey": {"location_code": "90"}, "Guinea": {"location_code": "91"}, "Guinea-Bissau": {"location_code": "92"}, "Guyana": {"location_code": "93"}, "Haiti": {"location_code": "94"}, "Honduras": {"location_code": "96"}, "Hong Kong": {"location_code": "97"}, "Hungary": {"location_code": "98"}, "Iceland": {"location_code": "99"}, "India": {"location_code": "100"}, "Indonesia": {"location_code": "101"}, "Iran": {"location_code": "102"}, "Iraq": {"location_code": "103"}, "Ireland": {"location_code": "104"}, "Italy": {"location_code": "105"}, "Jamaica": {"location_code": "106"}, "Japan": {"location_code": "107"}, "Jersey": {"location_code": "108"}, "Jordan": {"location_code": "109"}, "Kazakhstan": {"location_code": "110"}, "Kenya": {"location_code": "111"}, "Kiribati": {"location_code": "112"}, "Korea (North)": {"location_code": "113"}, "Korea (South)": {"location_code": "114"}, "Kuwait": {"location_code": "115"}, "Kyrgyzstan": {"location_code": "116"}, "Laos": {"location_code": "117"}, "Latvia": {"location_code": "118"}, "Lebanon": {"location_code": "119"}, "Lesotho": {"location_code": "120"}, "Liberia": {"location_code": "121"}, "Libya": {"location_code": "122"}, "Liechtenstein": {"location_code": "123"}, "Lithuania": {"location_code": "124"}, "Luxembourg": {"location_code": "125"}, "Macao": {"location_code": "126"}, "Macedonia": {"location_code": "127"}, "Madagascar": {"location_code": "128"}, "Malawi": {"location_code": "129"}, "Malaysia": {"location_code": "130"}, "Maldives": {"location_code": "131"}, "Mali": {"location_code": "132"}, "Malta": {"location_code": "133"}, "Marshall Islands": {"location_code": "134"}, "Martinique": {"location_code": "135"}, "Mauritania": {"location_code": "136"}, "Mauritius": {"location_code": "137"}, "Mayotte": {"location_code": "138"}, "Mexico": {"location_code": "139"}, "Micronesia": {"location_code": "140"}, "Moldova": {"location_code": "141"}, "Monaco": {"location_code": "142"}, "Mongolia": {"location_code": "143"}, "Montenegro": {"location_code": "144"}, "Montserrat": {"location_code": "145"}, "Morocco": {"location_code": "146"}, "Mozambique": {"location_code": "147"}, "Myanmar": {"location_code": "148"}, "Namibia": {"location_code": "149"}, "Nepal": {"location_code": "151"}, "Netherlands": {"location_code": "152"}, "Netherlands Antilles": {"location_code": "153"}, "New Caledonia": {"location_code": "154"}, "New Zealand": {"location_code": "155"}, "Nicaragua": {"location_code": "156"}, "Niger": {"location_code": "157"}, "Nigeria": {"location_code": "158"}, "Northern Mariana Islands": {"location_code": "161"}, "Norway": {"location_code": "162"}, "Oman": {"location_code": "163"}, "Pakistan": {"location_code": "164"}, "Palau": {"location_code": "165"}, "Palestine": {"location_code": "166"}, "Panama": {"location_code": "167"}, "Papua New Guinea": {"location_code": "168"}, "Paraguay": {"location_code": "169"}, "Peru": {"location_code": "170"}, "Philippines": {"location_code": "171"}, "Poland": {"location_code": "173"}, "Portugal": {"location_code": "174"}, "Puerto Rico": {"location_code": "175"}, "Qatar": {"location_code": "176"}, "Reunion": {"location_code": "177"}, "Romania": {"location_code": "178"}, "Russia": {"location_code": "179"}, "Rwanda": {"location_code": "180"}, "Saint Kitts and Nevis": {"location_code": "183"}, "Saint Lucia": {"location_code": "184"}, "Saint Martin": {"location_code": "185"}, "Saint Vincent and the Grenadines": {"location_code": "187"}, "Samoa": {"location_code": "188"}, "San Marino": {"location_code": "189"}, "Sao Tome and Principe": {"location_code": "190"}, "Saudi Arabia": {"location_code": "191"}, "Senegal": {"location_code": "192"}, "Serbia": {"location_code": "193"}, "Seychelles": {"location_code": "194"}, "Sierra Leone": {"location_code": "195"}, "Singapore": {"location_code": "196"}, "Slovakia": {"location_code": "197"}, "Slovenia": {"location_code": "198"}, "Solomon Islands": {"location_code": "199"}, "Somalia": {"location_code": "200"}, "South Africa": {"location_code": "201"}, "Spain": {"location_code": "203"}, "Sri Lanka": {"location_code": "204"}, "Sudan": {"location_code": "205"}, "Suriname": {"location_code": "206"}, "Swaziland": {"location_code": "208"}, "Sweden": {"location_code": "209"}, "Switzerland": {"location_code": "210"}, "Syria": {"location_code": "211"}, "Taiwan": {"location_code": "212"}, "Tajikistan": {"location_code": "213"}, "Tanzania": {"location_code": "214"}, "Thailand": {"location_code": "215"}, "Togo": {"location_code": "216"}, "Tonga": {"location_code": "218"}, "Trinidad and Tobago": {"location_code": "219"}, "Tunisia": {"location_code": "220"}, "Turkey": {"location_code": "221"}, "Turkmenistan": {"location_code": "222"}, "Turks and Caicos Islands": {"location_code": "223"}, "Uganda": {"location_code": "225"}, "Ukraine": {"location_code": "226"}, "United Arab Emirates": {"location_code": "227"}, "United Kingdom": {"location_code": "228"}, "United States": {"location_code": "229"}, "Uruguay": {"location_code": "231"}, "Uzbekistan": {"location_code": "232"}, "Vanautu": {"location_code": "233"}, "Venezuela": {"location_code": "235"}, "Vietnam": {"location_code": "236"}, "Virgin Islands (British)": {"location_code": "237"}, "Virgin Islands (US)": {"location_code": "238"}, "Western Sahara": {"location_code": "240"}, "Yemen": {"location_code": "241"}, "Zambia": {"location_code": "242"}, "Zimbabwe": {"location_code": "243"}}
+{
+    "Afghanistan": {
+        "location_code": "1"
+    },
+    "Aland Islands": {
+        "location_code": "2"
+    },
+    "Albania": {
+        "location_code": "3"
+    },
+    "Algeria": {
+        "location_code": "4"
+    },
+    "American Samoa": {
+        "location_code": "5"
+    },
+    "Andorra": {
+        "location_code": "6"
+    },
+    "Angola": {
+        "location_code": "7"
+    },
+    "Antigua and Barbuda": {
+        "location_code": "9"
+    },
+    "Argentina": {
+        "location_code": "10"
+    },
+    "Armenia": {
+        "location_code": "11"
+    },
+    "Aruba": {
+        "location_code": "12"
+    },
+    "Australia": {
+        "location_code": "13"
+    },
+    "Austria": {
+        "location_code": "14"
+    },
+    "Azerbaijan": {
+        "location_code": "15"
+    },
+    "Bahamas": {
+        "location_code": "16"
+    },
+    "Bahrain": {
+        "location_code": "17"
+    },
+    "Bangladesh": {
+        "location_code": "18"
+    },
+    "Barbados": {
+        "location_code": "19"
+    },
+    "Belarus": {
+        "location_code": "20"
+    },
+    "Belgium": {
+        "location_code": "21"
+    },
+    "Belize": {
+        "location_code": "22"
+    },
+    "Benin": {
+        "location_code": "23"
+    },
+    "Bermuda": {
+        "location_code": "24"
+    },
+    "Bhutan": {
+        "location_code": "25"
+    },
+    "Bolivia": {
+        "location_code": "26"
+    },
+    "Bosnia and Herzegovina": {
+        "location_code": "27"
+    },
+    "Botswana": {
+        "location_code": "28"
+    },
+    "Brazil": {
+        "location_code": "30"
+    },
+    "British Indian Ocean Territory": {
+        "location_code": "31"
+    },
+    "Brunei": {
+        "location_code": "32"
+    },
+    "Bulgaria": {
+        "location_code": "33"
+    },
+    "Burkina Faso": {
+        "location_code": "34"
+    },
+    "Burundi": {
+        "location_code": "35"
+    },
+    "Cambodia": {
+        "location_code": "36"
+    },
+    "Cameroon": {
+        "location_code": "37"
+    },
+    "Canada": {
+        "location_code": "38"
+    },
+    "Cape Verde": {
+        "location_code": "39"
+    },
+    "Cayman Islands": {
+        "location_code": "40"
+    },
+    "Central African Republic": {
+        "location_code": "41"
+    },
+    "Chad": {
+        "location_code": "42"
+    },
+    "Chile": {
+        "location_code": "43"
+    },
+    "China": {
+        "location_code": "44"
+    },
+    "Colombia": {
+        "location_code": "47"
+    },
+    "Comoros": {
+        "location_code": "48"
+    },
+    "Congo": {
+        "location_code": "49"
+    },
+    "Congo Democratic Republic": {
+        "location_code": "50"
+    },
+    "Cook Islands": {
+        "location_code": "51"
+    },
+    "Costa Rica": {
+        "location_code": "52"
+    },
+    "Cote Divoire": {
+        "location_code": "53"
+    },
+    "Croatia": {
+        "location_code": "54"
+    },
+    "Cuba": {
+        "location_code": "55"
+    },
+    "Cyprus": {
+        "location_code": "56"
+    },
+    "Czech Republic": {
+        "location_code": "57"
+    },
+    "Denmark": {
+        "location_code": "58"
+    },
+    "Djibouti": {
+        "location_code": "59"
+    },
+    "Dominica": {
+        "location_code": "60"
+    },
+    "Dominican Republic": {
+        "location_code": "61"
+    },
+    "East Timor": {
+        "location_code": "62"
+    },
+    "Ecuador": {
+        "location_code": "63"
+    },
+    "Egypt": {
+        "location_code": "64"
+    },
+    "El Salvador": {
+        "location_code": "65"
+    },
+    "Equatorial Guinea": {
+        "location_code": "66"
+    },
+    "Eritrea": {
+        "location_code": "67"
+    },
+    "Estonia": {
+        "location_code": "68"
+    },
+    "Ethiopia": {
+        "location_code": "69"
+    },
+    "Faroe Islands": {
+        "location_code": "71"
+    },
+    "Fiji": {
+        "location_code": "72"
+    },
+    "Finland": {
+        "location_code": "73"
+    },
+    "France": {
+        "location_code": "74"
+    },
+    "French Guiana": {
+        "location_code": "75"
+    },
+    "French Polynesia": {
+        "location_code": "76"
+    },
+    "Gabon": {
+        "location_code": "78"
+    },
+    "Gambia": {
+        "location_code": "79"
+    },
+    "Georgia": {
+        "location_code": "80"
+    },
+    "Germany": {
+        "location_code": "81"
+    },
+    "Ghana": {
+        "location_code": "82"
+    },
+    "Gibraltar": {
+        "location_code": "83"
+    },
+    "Greece": {
+        "location_code": "84"
+    },
+    "Greenland": {
+        "location_code": "85"
+    },
+    "Grenada": {
+        "location_code": "86"
+    },
+    "Guadeloupe": {
+        "location_code": "87"
+    },
+    "Guam": {
+        "location_code": "88"
+    },
+    "Guatemala": {
+        "location_code": "89"
+    },
+    "Guernsey": {
+        "location_code": "90"
+    },
+    "Guinea": {
+        "location_code": "91"
+    },
+    "Guinea-Bissau": {
+        "location_code": "92"
+    },
+    "Guyana": {
+        "location_code": "93"
+    },
+    "Haiti": {
+        "location_code": "94"
+    },
+    "Honduras": {
+        "location_code": "96"
+    },
+    "Hong Kong": {
+        "location_code": "97"
+    },
+    "Hungary": {
+        "location_code": "98"
+    },
+    "Iceland": {
+        "location_code": "99"
+    },
+    "India": {
+        "location_code": "100"
+    },
+    "Indonesia": {
+        "location_code": "101"
+    },
+    "Iran": {
+        "location_code": "102"
+    },
+    "Iraq": {
+        "location_code": "103"
+    },
+    "Ireland": {
+        "location_code": "104"
+    },
+    "Italy": {
+        "location_code": "105"
+    },
+    "Jamaica": {
+        "location_code": "106"
+    },
+    "Japan": {
+        "location_code": "107"
+    },
+    "Jersey": {
+        "location_code": "108"
+    },
+    "Jordan": {
+        "location_code": "109"
+    },
+    "Kazakhstan": {
+        "location_code": "110"
+    },
+    "Kenya": {
+        "location_code": "111"
+    },
+    "Kiribati": {
+        "location_code": "112"
+    },
+    "Korea (North)": {
+        "location_code": "113"
+    },
+    "Korea (South)": {
+        "location_code": "114"
+    },
+    "Kuwait": {
+        "location_code": "115"
+    },
+    "Kyrgyzstan": {
+        "location_code": "116"
+    },
+    "Laos": {
+        "location_code": "117"
+    },
+    "Latvia": {
+        "location_code": "118"
+    },
+    "Lebanon": {
+        "location_code": "119"
+    },
+    "Lesotho": {
+        "location_code": "120"
+    },
+    "Liberia": {
+        "location_code": "121"
+    },
+    "Libya": {
+        "location_code": "122"
+    },
+    "Liechtenstein": {
+        "location_code": "123"
+    },
+    "Lithuania": {
+        "location_code": "124"
+    },
+    "Luxembourg": {
+        "location_code": "125"
+    },
+    "Macao": {
+        "location_code": "126"
+    },
+    "Macedonia": {
+        "location_code": "127"
+    },
+    "Madagascar": {
+        "location_code": "128"
+    },
+    "Malawi": {
+        "location_code": "129"
+    },
+    "Malaysia": {
+        "location_code": "130"
+    },
+    "Maldives": {
+        "location_code": "131"
+    },
+    "Mali": {
+        "location_code": "132"
+    },
+    "Malta": {
+        "location_code": "133"
+    },
+    "Marshall Islands": {
+        "location_code": "134"
+    },
+    "Martinique": {
+        "location_code": "135"
+    },
+    "Mauritania": {
+        "location_code": "136"
+    },
+    "Mauritius": {
+        "location_code": "137"
+    },
+    "Mayotte": {
+        "location_code": "138"
+    },
+    "Mexico": {
+        "location_code": "139"
+    },
+    "Micronesia": {
+        "location_code": "140"
+    },
+    "Moldova": {
+        "location_code": "141"
+    },
+    "Monaco": {
+        "location_code": "142"
+    },
+    "Mongolia": {
+        "location_code": "143"
+    },
+    "Montenegro": {
+        "location_code": "144"
+    },
+    "Montserrat": {
+        "location_code": "145"
+    },
+    "Morocco": {
+        "location_code": "146"
+    },
+    "Mozambique": {
+        "location_code": "147"
+    },
+    "Myanmar": {
+        "location_code": "148"
+    },
+    "Namibia": {
+        "location_code": "149"
+    },
+    "Nepal": {
+        "location_code": "151"
+    },
+    "Netherlands": {
+        "location_code": "152"
+    },
+    "Netherlands Antilles": {
+        "location_code": "153"
+    },
+    "New Caledonia": {
+        "location_code": "154"
+    },
+    "New Zealand": {
+        "location_code": "155"
+    },
+    "Nicaragua": {
+        "location_code": "156"
+    },
+    "Niger": {
+        "location_code": "157"
+    },
+    "Nigeria": {
+        "location_code": "158"
+    },
+    "Northern Mariana Islands": {
+        "location_code": "161"
+    },
+    "Norway": {
+        "location_code": "162"
+    },
+    "Oman": {
+        "location_code": "163"
+    },
+    "Pakistan": {
+        "location_code": "164"
+    },
+    "Palau": {
+        "location_code": "165"
+    },
+    "Palestine": {
+        "location_code": "166"
+    },
+    "Panama": {
+        "location_code": "167"
+    },
+    "Papua New Guinea": {
+        "location_code": "168"
+    },
+    "Paraguay": {
+        "location_code": "169"
+    },
+    "Peru": {
+        "location_code": "170"
+    },
+    "Philippines": {
+        "location_code": "171"
+    },
+    "Poland": {
+        "location_code": "173"
+    },
+    "Portugal": {
+        "location_code": "174"
+    },
+    "Puerto Rico": {
+        "location_code": "175"
+    },
+    "Qatar": {
+        "location_code": "176"
+    },
+    "Reunion": {
+        "location_code": "177"
+    },
+    "Romania": {
+        "location_code": "178"
+    },
+    "Russia": {
+        "location_code": "179"
+    },
+    "Rwanda": {
+        "location_code": "180"
+    },
+    "Saint Kitts and Nevis": {
+        "location_code": "183"
+    },
+    "Saint Lucia": {
+        "location_code": "184"
+    },
+    "Saint Martin": {
+        "location_code": "185"
+    },
+    "Saint Vincent and the Grenadines": {
+        "location_code": "187"
+    },
+    "Samoa": {
+        "location_code": "188"
+    },
+    "San Marino": {
+        "location_code": "189"
+    },
+    "Sao Tome and Principe": {
+        "location_code": "190"
+    },
+    "Saudi Arabia": {
+        "location_code": "191"
+    },
+    "Senegal": {
+        "location_code": "192"
+    },
+    "Serbia": {
+        "location_code": "193"
+    },
+    "Seychelles": {
+        "location_code": "194"
+    },
+    "Sierra Leone": {
+        "location_code": "195"
+    },
+    "Singapore": {
+        "location_code": "196"
+    },
+    "Slovakia": {
+        "location_code": "197"
+    },
+    "Slovenia": {
+        "location_code": "198"
+    },
+    "Solomon Islands": {
+        "location_code": "199"
+    },
+    "Somalia": {
+        "location_code": "200"
+    },
+    "South Africa": {
+        "location_code": "201"
+    },
+    "Spain": {
+        "location_code": "203"
+    },
+    "Sri Lanka": {
+        "location_code": "204"
+    },
+    "Sudan": {
+        "location_code": "205"
+    },
+    "Suriname": {
+        "location_code": "206"
+    },
+    "Swaziland": {
+        "location_code": "208"
+    },
+    "Sweden": {
+        "location_code": "209"
+    },
+    "Switzerland": {
+        "location_code": "210"
+    },
+    "Syria": {
+        "location_code": "211"
+    },
+    "Taiwan": {
+        "location_code": "212"
+    },
+    "Tajikistan": {
+        "location_code": "213"
+    },
+    "Tanzania": {
+        "location_code": "214"
+    },
+    "Thailand": {
+        "location_code": "215"
+    },
+    "Togo": {
+        "location_code": "216"
+    },
+    "Tonga": {
+        "location_code": "218"
+    },
+    "Trinidad and Tobago": {
+        "location_code": "219"
+    },
+    "Tunisia": {
+        "location_code": "220"
+    },
+    "Turkey": {
+        "location_code": "221"
+    },
+    "Turkmenistan": {
+        "location_code": "222"
+    },
+    "Turks and Caicos Islands": {
+        "location_code": "223"
+    },
+    "Uganda": {
+        "location_code": "225"
+    },
+    "Ukraine": {
+        "location_code": "226"
+    },
+    "United Arab Emirates": {
+        "location_code": "227"
+    },
+    "United Kingdom": {
+        "location_code": "228"
+    },
+    "United States": {
+        "location_code": "229"
+    },
+    "Uruguay": {
+        "location_code": "231"
+    },
+    "Uzbekistan": {
+        "location_code": "232"
+    },
+    "Vanautu": {
+        "location_code": "233"
+    },
+    "Venezuela": {
+        "location_code": "235"
+    },
+    "Vietnam": {
+        "location_code": "236"
+    },
+    "Virgin Islands (British)": {
+        "location_code": "237"
+    },
+    "Virgin Islands (US)": {
+        "location_code": "238"
+    },
+    "Western Sahara": {
+        "location_code": "240"
+    },
+    "Yemen": {
+        "location_code": "241"
+    },
+    "Zambia": {
+        "location_code": "242"
+    },
+    "Zimbabwe": {
+        "location_code": "243"
+    }
+}
