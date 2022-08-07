@@ -1,6 +1,7 @@
+from locale import currency
 import re
 from typing import List
-from dataclasses import dataclass
+from dataclasses import dataclass, field
 
 import requests
 from bs4 import BeautifulSoup
@@ -8,9 +9,8 @@ from bs4 import BeautifulSoup
 
 @dataclass(repr=True)
 class Salary:
-    range:str
-    amount:str
-    currency:str
+    amounts: List[str] = field(default_factory=list)
+    currency:str = None
     
 class SalaryExplorerAPI:
     
@@ -33,20 +33,22 @@ class SalaryExplorerAPI:
         content = soup.find(id=target_id_tag)
         return content
 
-    def _get_salaries(self, content:object) -> List[Salary]:
-        salaries = []
+    def _get_salaries(self, content:object) -> Salary:
+        salary = Salary()
+        amounts = []
         for salary_range in self._salary_ranges:
             span = content.find("span", {"class": salary_range})            
-            new_salary = self._exract_salary_info(salary_range, span.text)
-            salaries.append(new_salary)
+            amount, currency = self._exract_salary_info(salary_range, span.text)
+            salary.currency = currency
+            amounts.append(amount)
+
+        salary.amounts = amounts
             
-        return salaries
+        return salary
 
     def _exract_salary_info(self, range:str, text:str) -> Salary:
         content = re.findall('(\d+|[A-Za-z]+)', text)
         amount = "".join([char for char in content if char.isnumeric()])
         currency = content[-1]
-        salary = Salary(range=range,
-                        amount=amount,
-                        currency=currency)
-        return salary
+        
+        return amount, currency

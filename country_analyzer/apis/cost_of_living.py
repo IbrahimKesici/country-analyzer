@@ -22,7 +22,8 @@ class CostOfLivingAPI:
             soup = BeautifulSoup(website_content, "html.parser")
             self._extract_all_cost_of_living_data(soup)
 
-        return self._cost_of_living_by_countries.get(country_name.lower())
+        empty_cost_of_living_index =  CostOfLivingIndex(purchasing_power_index=None, cost_of_living_index=None)
+        return self._cost_of_living_by_countries.get(country_name.lower()) or empty_cost_of_living_index
 
     def _make_request(self) -> str:
         response = requests.get(self._url)
