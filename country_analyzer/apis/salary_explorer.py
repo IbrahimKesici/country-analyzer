@@ -14,11 +14,11 @@ class Salary:
     
 class SalaryExplorerAPI:
     
-    def __init__(self, url:str) -> None:
+    def __init__(self, url:str="http://www.salaryexplorer.com/salary-survey.php") -> None:
         self._url = url
         self._salary_ranges = ['lowest', 'average', 'highest']
 
-    def get(self, country_code:int, loc_type:int = 1) -> None:
+    def get_salaries(self, country_code:int, loc_type:int = 1) -> None:
         url_with_query_params = f'{self._url}?loc={country_code}&loctype={loc_type}'        
         response = requests.get(url_with_query_params)
         response.raise_for_status()
